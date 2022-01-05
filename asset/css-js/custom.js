@@ -36,7 +36,7 @@ function cleanLast() {
 }
 
 
-// Matchig Pin - Submit Button Condition
+// Matching Pin - Submit Button Condition
 function submitBtn() {
     var randomNum = document.getElementById('generateNum').value;
     var typeNum = document.getElementById('inputPin').value;
